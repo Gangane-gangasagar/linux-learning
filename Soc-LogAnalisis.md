@@ -35,3 +35,9 @@ security event.
 
 I learned how Linux commands can be used to search and analyze
 security-related log data.
+
+## conclusion
+I learned how to analyze authentication logs using Linux commands.
+I participated identifying failed login attempts,finding up addresses,
+and counting repeated login attempts.
+This practice helped mi understand the basic process of security log analysis used in soc environments
